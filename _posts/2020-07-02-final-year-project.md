@@ -14,6 +14,9 @@ collected across Scotland. These files were so large that they couldn't all be s
 memory management technique was necessary for reducing memory usage. Another cause of the file size was the loading time
 of the data into memory and due to multiple files needing to be loading at once a multi-threading approach was used.
 
+The floating point values inside a single binary file are constructed into triangles and rendered. These triangles from
+a file make up a single "tile". At any one point in time, 9 tiles are rendered around the camera's position.
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/finalyearproject/dundee.png" alt="">
 
 The code and further documentation can be accessed below, unfortunately, due to copyright the data files cannot be included.
