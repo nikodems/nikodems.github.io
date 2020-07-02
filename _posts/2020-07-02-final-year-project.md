@@ -11,8 +11,8 @@ due to Java3D no longer receiving support. I chose C++ and Direct3D as my techno
 A major challenge of the project was the data set used for construction the terrain. The data set consisted of a large
 collection of binary files containing floating point values representing 3D cartesian coordinates of points 
 collected across Scotland. These files were so large that they couldn't all be stored in memory at once, therefore a 
-memory management technique was necessary for reducing memory usage. Another cause of the file size was the loading time
-of the data into memory and due to multiple files needing to be loading at once a multi-threading approach was used.
+memory management technique was necessary for reducing memory usage. Another cause of the file size was the long loading times
+into memory, and due to the fact that multiple files needed to be loaded at once, a multi-threading solution was introduced.
 
 The floating point values inside a single binary file are constructed into triangles and rendered. These triangles from
 a file make up a single "tile". At any one point in time, 9 tiles are rendered around the camera's position.
