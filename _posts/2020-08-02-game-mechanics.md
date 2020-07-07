@@ -11,3 +11,5 @@ collision the projectile will disappear.
 Piercing allows the projectile to pass through a couple of enemies. When splitting is active, on collision with an enemey the 
 projectile will split into two projectiles. Increasing the number of projectiles is self-explanatory. All of the options
 can be active at once, meaning the projectiles can bounce, pierce and split. 
+
+A video showcasing the project can be seen here: [Youtube](https://www.youtube.com/watch?v=kh-_71wuPf4&t=)
