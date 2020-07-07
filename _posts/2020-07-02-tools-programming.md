@@ -21,4 +21,5 @@ scene would pop up a window with the positional values, which could then be edit
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/tools/popup.png" alt="">
 
-To see the code and futher documentation check the link below:
+Only code related to the calculating and rendering of the AI paths, as well as the editor window were created by me. The
+program was created with C++ and MFC.
