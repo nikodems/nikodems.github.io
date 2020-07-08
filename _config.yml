@@ -96,8 +96,8 @@ author:
   name             : "Nikodem Skwierawski"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Games Programmer Portfolio"
-  location         : "Dundee"
-  email            :
+  location         : 
+  email            : nikodemskwierawski@outlook.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
