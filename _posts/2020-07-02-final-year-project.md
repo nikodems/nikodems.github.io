@@ -19,6 +19,4 @@ a file make up a single "tile". At any one point in time, 9 tiles are rendered a
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/finalyearproject/dundee.png" alt="">
 
-The code and further documentation can be accessed below, unfortunately, due to copyright the data files cannot be included.
-
 [Source](https://github.com/nikodems/final-year-project)
