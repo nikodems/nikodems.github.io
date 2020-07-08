@@ -11,3 +11,5 @@ beats with the rectangular bar. Each hit gives 1 point and the goal is to get as
 
 The beats are created by working on the samples of the music track, and applying a Fast Fourier Transform (FFT) onto them, which is done automatically using Unity's GetSpectrumData() function. The FFT produces a list of the
 samples' frequencies, which are compared to the surrounding samples to look for any peaks. These peaks then become beats.
+
+[Source Code](https://github.com/nikodems/audio-programming)
