@@ -13,3 +13,5 @@ projectile will split into two projectiles. Increasing the number of projectiles
 can be active at once, meaning the projectiles can bounce, pierce and split. 
 
 A video showcasing the project can be seen here: [Youtube](https://www.youtube.com/watch?v=kh-_71wuPf4&t=)
+
+[Source Code](https://github.com/nikodems/game-mechanics)
